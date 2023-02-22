@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Nuño-Ledesma"
+title                    : "Jonathan Garita"
 title_separator          : "-"
-name                     : &name "José Nuño-Ledesma"
+name                     : &name "Jonathan Garita"
 description              : &description "personal description"
-url                      : https://jgnunol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jggarita.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jgnunol/jgnunol.github.io"
+repository               : "jggarita/jggarita.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Nuño-Ledesma"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor - University of Guelph."
-  location         : "Guelph, Ontario."
-  employer         : "University of Guelph"
+  name             : "Jonathan Garita"
+  avatar           : "profileX.png"
+  bio              : "Research Economist - Central Bank of Costa Rica."
+  location         : "San José, Costa Rica."
+  employer         : #"University of Guelph"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=udjj4tsAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=udjj4tsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jgnunol"
+  github           : "jggarita"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jggarita"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "josenunol"
-  orcid            : "http://orcid.org/0000-0001-9735-6801"
+  linkedin         :
+  orcid            : #"http://orcid.org/0000-0001-9735-6801"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "jggarita"
   vine             :
   weibo            :
   xing             :
