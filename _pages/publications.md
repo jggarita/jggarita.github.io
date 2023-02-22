@@ -18,14 +18,14 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Taxing Sugar-Sweetened Beverages: A Nonlinear Pricing Approach**. *Revise and Resubmit*.
-- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas).
+**Elasticity of Taxable Income Under Notches**. *Draft soon*.
+- With Luis Fernando Corrales and Claudio Mora.
 
-**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review*.
-- With [Jorge Pérez Pérez](https://jorgeperezperez.com/).
+**Job Displacement Effects and Labor Market Sorting During COVID-19**. *Under Review*.
+- With Guillermo Pastrana and Pablo Slon
+- Prepared for the CEMLA Joint Research Program 2022
 
-**Approximation in complex pricing mechanisms**.
-- With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
+**Labor Market Fluidity in Costa Rica**.
 
 ## Publications
 -------
@@ -44,16 +44,3 @@ author_profile: true
 		{% include archive-single.html %}
 	{% endif%}
 {% endfor %}
-
-
-
-
-
-## Links
--------
-
-You can find records of my work in the following links:
-
-* [ORCiD](https://orcid.org/0000-0001-9735-6801)
-* [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en)
-* [RePEc/IDEAS](https://ideas.repec.org/e/pnu115.html)
