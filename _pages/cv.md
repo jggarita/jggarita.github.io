@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Curriculum vitae"
-header:
-  overlay_image: https://jgnunol.github.io/images/harmonices4.jpg
-  caption: "From Kepler's Harmonices Mundi"
+#header:
+#  overlay_image: https://jgnunol.github.io/images/harmonices4.jpg
+#  caption: "From Kepler's Harmonices Mundi"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,20 +16,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Purdue University, 2018.
-* M.Sc., University of Minnesota, 2014.
-* Bachelor's degree, Universidad de Guadalajara, Mexico, 2010.
+* Ph.D., The University of Texas at Austin, 2021.
+* Bachelor's degree, Universidad de Costa Rica.
 
 Post-Ph.D. work experience
 ======
-* 2020 - Current: Assistant Professor.
-  * Dept. of Food, Ag. & Resource Economics - University of Guelph, ON.
 
-* 2019: Senior Economist.
-  * [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html). Division of Economic Research.
+* 2021-Current: Research Economist.
+  * [Central Bank of Costa Rica](https://repositorioinvestigaciones.bccr.fi.cr/). Economic Research Department
 
-
-Professional experience in a map
-======
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1IuP01EtoMZPZ8oU_-3-BB82Amfax-oKc" width="640" height="480"></iframe>
+* 2022-Current: Lecturer.
+  * [Economics Department](https://www.economia.ucr.ac.cr). University of Costa Rica.
