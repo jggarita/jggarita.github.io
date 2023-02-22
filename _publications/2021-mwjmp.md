@@ -4,7 +4,7 @@ collection: research
 type: progress
 permalink: /research/minwagejmp
 excerpt:
-date: 2021-03-01
+#date: 2021-03-01
 #venue: Working paper
 ---
 
