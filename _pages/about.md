@@ -2,18 +2,18 @@
 permalink: /
 title: "Applied Economist"
 excerpt: "University of Guelph"
-header:
-  overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
-  caption: "Las Hilanderas - Velázquez"
+#header:
+#  overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
+#  caption: "Las Hilanderas - Velázquez"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 Current appointment
 ======
-* Assistant Professor of Food Industry Economics and Management. 
+* Research Economist. Economic Research Department. Central Bank of Costa Rica.
 * [University of Guelph](https://www.uoguelph.ca/) - Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).
 
 Research interests
@@ -27,7 +27,7 @@ Research interests
 Education
 ======
 * Ph.D. [Purdue University](https://www.purdue.edu/), IN, USA.
- 
+
 Contact information
 ======
 jnuno [at] uoguelph [dot] ca <br/>
