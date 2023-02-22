@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Curriculum vitae"
-#header:
-#  overlay_image: https://jgnunol.github.io/images/harmonices4.jpg
+header:
+  overlay_image: https://jggarita.github.io/images/Header5.jpeg
 #  caption: "From Kepler's Harmonices Mundi"
 permalink: /cv/
 author_profile: true
