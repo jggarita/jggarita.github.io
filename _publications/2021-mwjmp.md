@@ -5,7 +5,7 @@ type: progress
 permalink: /research/minwagejmp
 excerpt:
 date: 2021-03-01
-venue: Working paper
+#venue: Working paper
 ---
 
 [Working Paper](https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf).
