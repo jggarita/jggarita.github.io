@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Applied Economist"
-excerpt: "University of Guelph"
+#title: "Research Economist"
+#excerpt: "BCCR"
 #header:
 #  overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
 #  caption: "Las Hilanderas - Velázquez"
@@ -11,27 +11,8 @@ redirect_from:
   - /about.html
 ---
 
-Current appointment
-======
-* Research Economist. Economic Research Department. Central Bank of Costa Rica.
-* [University of Guelph](https://www.uoguelph.ca/) - Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).
+I work as research economist at the Central Bank of Costa Rica. My primary research interests are labor economics, macroeconomics, and income tax policy. I earned my Ph.D. in Economics from The University of Texas at Austin.
 
-Research interests
-======
-* Organizational Economics
-* Pricing and Mechanism Design
-* Agricultural Economics
-* Experimental Economics
-* Labor Economics
+My current work lies in the intersection between macroeconomics, labor, and public finances. Particularly, I have been studying how firms absorb higher minimum wages. Additionally, I am currently working on different taxation projects to understand agents’ behavior under non-linear budget sets introduced by notches.
 
-Education
-======
-* Ph.D. [Purdue University](https://www.purdue.edu/), IN, USA.
-
-Contact information
-======
-jnuno [at] uoguelph [dot] ca <br/>
-50 Stone Road East.<br/>
-J.D. MacLachlan Building<br/>
-Office 307<br/>
-Guelph, Ontario, Canada N1G 2W1
+I also teach at the Department of Economics of the University of Costa Rica.
