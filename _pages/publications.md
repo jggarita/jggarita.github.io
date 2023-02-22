@@ -26,16 +26,13 @@ author_profile: true
 - Prepared for the CEMLA Joint Research Program 2022
 
 **Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System**
-- New draft soon.
-- Current version here.
+- New draft soon. Current version here.
 
 **Minimum Wages and Capital-Labor Substitution**
-- New draft soon.
-- Current version here.
+- New draft soon. Current version here.
 
-** Minimum Wages, Firm Pay Policies and Employment Flows**.
-- New draft soon.
-- Current version here.
+**Minimum Wages, Firm Pay Policies and Employment Flows**.
+- New draft soon. Current version here.
 
 **Labor Market Fluidity in Costa Rica**.
 
