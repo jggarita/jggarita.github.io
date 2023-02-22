@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-excerpt: "Published and Ongoing"
+#excerpt: "Published and Ongoing"
 header:
   overlay_image: https://jggarita.github.io/images/Header4.jpeg
   #caption: "From Kepler's Harmonices Mundi"
