@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download Curriculum Vitae in PDF format here.](https://jgnunol.github.io/files/CV.pdf)**
+**[Download Curriculum Vitae in PDF format here.](https://jgnunol.gitdasdsahub.io/files/CV.pdf)**
 
 Education
 ======
