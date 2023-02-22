@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Research Economist"
+title: "Welcome!"
 #excerpt: "BCCR"
 #header:
 #  overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
