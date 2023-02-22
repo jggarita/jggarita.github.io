@@ -27,20 +27,20 @@ author_profile: true
 
 **Labor Market Fluidity in Costa Rica**.
 
-## Publications
--------
-
-{% for post in site.publications reversed %}
-	{% if post.type == 'published' %}
-		{% include archive-single.html %}
-	{% endif%}
-{% endfor %}
-
 ## Working Papers
 -------
 
 {% for post in site.publications reversed %}
 	{% if post.type == 'progress' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
+## Publications
+-------
+
+{% for post in site.publications reversed %}
+	{% if post.type == 'published' %}
 		{% include archive-single.html %}
 	{% endif%}
 {% endfor %}
