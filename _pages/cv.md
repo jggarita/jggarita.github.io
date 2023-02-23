@@ -2,7 +2,7 @@
 layout: archive
 title: "Curriculum vitae"
 header:
-  overlay_image: https://jggarita.github.io/images/hermes.jpeg
+  overlay_image: https://jggarita.github.io/images/hermes.jpg
 #  caption: "From Kepler's Harmonices Mundi"
 permalink: /cv/
 author_profile: true
