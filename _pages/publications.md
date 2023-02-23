@@ -4,7 +4,6 @@ title: "Research"
 #excerpt: "Published and Ongoing"
 header:
   overlay_image: https://jggarita.github.io/images/Header4.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   #caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 redirect_from:
@@ -19,40 +18,20 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Elasticity of Taxable Income Under Notches**. *Draft soon*.
-- With Luis Fernando Corrales and Claudio Mora.
+* Elasticity of Taxable Income Under Notches. With Luis Fernando Corrales and Claudio Mora. *Draft soon*.
 
-**Job Displacement Effects and Labor Market Sorting During COVID-19**. *Under Review*.
-- With Guillermo Pastrana and Pablo Slon
-- Prepared for the CEMLA Joint Research Program 2022
+* Job Displacement Effects and Labor Market Sorting During COVID-19 (2023). With Guillermo Pastrana and Pablo Slon. Prepared for the CEMLA Joint Research Program 2022. *Under Review*.
 
-**Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System**
-- New draft soon. Current version here.
+* Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System (2021). Current version. *New draft soon*
 
-**Minimum Wages and Capital-Labor Substitution**
-- New draft soon. Current version here.
+* Minimum Wages and Capital-Labor Substitution (2021). Current version. *New draft soon*
 
-**Minimum Wages, Firm Pay Policies and Employment Flows**.
-- New draft soon. Current version here.
-
-**Labor Market Fluidity in Costa Rica**.
-
-
+* Minimum Wages, Firm Pay Policies and Employment Flows (2021). Current version. *New draft soon*
 
 ## Working Papers
--------
 
-{% for post in site.publications reversed %}
-	{% if post.type == 'progress' %}
-		{% include archive-single.html %}
-	{% endif%}
-{% endfor %}
+* Estimating Labor Market Slackness (In Spanish). With Catalina Sandoval-Alvarado. BCCR Working Paper N. 02-2023, 2022. [Download](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/378/2023-DT-02.pdf?sequence=1&isAllowed=y).
 
 ## Publications
--------
 
-{% for post in site.publications reversed %}
-	{% if post.type == 'published' %}
-		{% include archive-single.html %}
-	{% endif%}
-{% endfor %}
+* Misallocation and Productivity in Costa Rica. With Alonso Alfaro. BOECD Economic Survey of Costa Rica: Research Findings on Productivity, OECD Publishing, Paris, 2018. [Download](https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1).
