@@ -3,11 +3,7 @@ layout: archive
 title: "Research"
 #excerpt: "Published and Ongoing"
 header:
-\backgroundsetup{
-position=current page.center,
-angle=180,
-contents={\includegraphics[width=\paperwidth,height=\paperheight]{https://jggarita.github.io/images/Header4.jpg}}
-}
+  overlay_image: https://jggarita.github.io/images/Header4.jpg
   #caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 redirect_from:
