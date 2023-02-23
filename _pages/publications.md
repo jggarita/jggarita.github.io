@@ -4,6 +4,7 @@ title: "Research"
 #excerpt: "Published and Ongoing"
 header:
   overlay_image: https://jggarita.github.io/images/Header4.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   #caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 redirect_from:
