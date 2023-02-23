@@ -34,4 +34,4 @@ author_profile: true
 
 ## Publications
 
-* Misallocation and Productivity in Costa Rica. With Alonso Alfaro. BOECD Economic Survey of Costa Rica: Research Findings on Productivity, OECD Publishing, Paris, 2018. [Download](https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1).
+* Misallocation and Productivity in Costa Rica. With Alonso Alfaro. OECD Economic Survey of Costa Rica: Research Findings on Productivity, OECD Publishing, Paris, 2018. [Download](https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1).
