@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 #excerpt: "Published and Ongoing"
 header:
-  overlay_image: https://jggarita.github.io/images/Header4.jpg
+  overlay_image: https://jggarita.github.io/images/hermes.jpg
   #caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 redirect_from:
