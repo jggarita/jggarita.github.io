@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download Curriculum Vitae in PDF format here.](https://jggarita.gitdasdsahub.io/files/CV.pdf)**
+**[Download Curriculum Vitae in PDF format here.](https://jggarita.github.io/files/CV_JonathanGarita_EN.pdf)**
 
 Education
 ======
