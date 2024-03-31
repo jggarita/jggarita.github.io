@@ -25,5 +25,5 @@ Post-Ph.D. work experience
 * 2021-Current: Research Economist.
   * [Central Bank of Costa Rica](https://repositorioinvestigaciones.bccr.fi.cr/). Economic Research Department
 
-* 2022-Current: Lecturer.
+* 2022-Current: Assistant Professor.
   * [Economics Department](https://www.economia.ucr.ac.cr). University of Costa Rica.

@@ -18,6 +18,8 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
+* Household Dollar Saving Behavior. With Alfredo Mendoza-Fernández and Carlos Segura-Rodríguez. 
+
 * Distortion and Complexity in Nonlinear Tax Systems: Evidence from Costa Rica. With Lucía Contreras.
 
 * Behavioral Responses to Tax Structures: Evidence from Self-Employed Workers. With Luis Fernando Corrales and Claudio Mora. *Draft soon*.
