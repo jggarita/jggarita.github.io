@@ -24,11 +24,11 @@ author_profile: true
 
 * Behavioral Responses to Tax Structures: Evidence from Self-Employed Workers. With Luis Fernando Corrales and Claudio Mora. *Draft soon*.
 
-* Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System (2021). Current version. *New draft soon*
+* Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System (2021). **[Current Version](https://jggarita.github.io/files/MW_firmdynamics.pdf)** *New draft soon*
 
-* Minimum Wages and Capital-Labor Substitution (2021). Current version. *New draft soon*
+* Minimum Wages and Capital-Labor Substitution (2021). **[Current Version.](https://jggarita.github.io/files/MW_capital.pdf)** *New draft soon*
 
-* Minimum Wages, Firm Pay Policies and Employment Flows (2021). Current version. *New draft soon*
+* Minimum Wages, Firm Pay Policies and Employment Flows (2021). **[Current Version](https://jggarita.github.io/files/MW_flows.pdf)** *New draft soon*
 
 
 ## Publications
