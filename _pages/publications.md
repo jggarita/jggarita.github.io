@@ -30,10 +30,12 @@ author_profile: true
 
 
 ## Publications
-* Job Displacement Effects and Labor Market Sorting During COVID-19 (2023). With Guillermo Pastrana and Pablo Slon. Latin American Journal of Central Banking. *Under Review*. [Download](https://www.sciencedirect.com/science/article/pii/S2666143823000303)
+* Job Displacement Effects and Labor Market Sorting During COVID-19 (2023). With Guillermo Pastrana and Pablo Slon. Latin American Journal of Central Banking. [Download](https://www.sciencedirect.com/science/article/pii/S2666143823000303)
 
 * Misallocation and Productivity in Costa Rica. With Alonso Alfaro. OECD Economic Survey of Costa Rica: Research Findings on Productivity, OECD Publishing, Paris, 2018. [Download](https://read.oecd-ilibrary.org/economics/oecd-economic-survey-of-costa-rica-research-findings-on-productivity/misallocation-and-productivity-in-costa-rica_9789264298774-5-en#page1).
 
 ## Policy Articles
+
+* Short-term Exchange Rate Forecasting Using Neural Networks. With César Ulate
 
 * Estimating Labor Market Slackness (In Spanish). With Catalina Sandoval-Alvarado. BCCR Working Paper N. 02-2023, 2022. [Download](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/378/2023-DT-02.pdf?sequence=1&isAllowed=y).
