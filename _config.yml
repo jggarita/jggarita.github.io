@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "Jonathan Garita"
   avatar           : "profile.jpg"
-  bio              : "Research Economist - Central Bank of Costa Rica."
+  bio              : "Research Economist - Central Bank of Costa Rica.
+		     Associate Professor - University of Costa Rica"
   location         : "San José, Costa Rica."
   employer         : #"BCCR"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
