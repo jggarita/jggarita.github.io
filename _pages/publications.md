@@ -18,15 +18,17 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
+* Household Dollar Saving Behavior. With Alfredo Mendoza-Fernández and Carlos Segura-Rodríguez. 
+
 * Distortion and Complexity in Nonlinear Tax Systems: Evidence from Costa Rica. With Lucía Contreras.
 
 * Behavioral Responses to Tax Structures: Evidence from Self-Employed Workers. With Luis Fernando Corrales and Claudio Mora. *Draft soon*.
 
-* Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System (2021). Current version. *New draft soon*
+* Minimum Wages and Firm Dynamics: Evidence From Costa Rica's Occupation-Based System (2021). **[Current Version](https://jggarita.github.io/files/MW_firmdynamics.pdf)** *New draft soon*
 
-* Minimum Wages and Capital-Labor Substitution (2021). Current version. *New draft soon*
+* Minimum Wages and Capital-Labor Substitution (2021). **[Current Version.](https://jggarita.github.io/files/MW_capital.pdf)** *New draft soon*
 
-* Minimum Wages, Firm Pay Policies and Employment Flows (2021). Current version. *New draft soon*
+* Minimum Wages, Firm Pay Policies and Employment Flows (2021). **[Current Version](https://jggarita.github.io/files/MW_flows.pdf)** *New draft soon*
 
 
 ## Publications
